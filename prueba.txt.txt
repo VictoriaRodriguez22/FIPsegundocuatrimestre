@@ -1,0 +1,3 @@
+descripcion del curso, curso de dos años y medio de duración. Estudios en programación web 
+
+tema, guardar cambios, hacer comentarios en una carpeta para que los compañeros de trabajos puedan saber los cambios, y que se vean en el repositorio original, en la rama que sea
